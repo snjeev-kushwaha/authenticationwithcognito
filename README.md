@@ -79,6 +79,8 @@ Note => firstly create user and give the amplify permission and create access an
 And then create react app and setup all the things look like. and install some packages like aws-amplify and @aws-amplify/ui-react.
 import '@aws-amplify/ui-react/styles.css'
 
+npm i -g @aws-amplify/cli
+
 1. amplify init
    => give project name => yes => then enter and enter and yes => give access key and secret key => select region => down arrow key => yes.
    After that create amplify folder in your app.
