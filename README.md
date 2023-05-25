@@ -76,7 +76,8 @@ Access key = ""
 Secret key = ""
 
 Note => firstly create user and give the amplify permission and create access and secret key.
-And then create react app and setup all the things look like.
+And then create react app and setup all the things look like. and install some packages like aws-amplify and @aws-amplify/ui-react.
+import '@aws-amplify/ui-react/styles.css'
 
 1. amplify init
    => give project name => yes => then enter and enter and yes => give access key and secret key => select region => down arrow key => yes.
